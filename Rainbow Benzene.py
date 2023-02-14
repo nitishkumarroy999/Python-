@@ -1,6 +1,3 @@
-# Python program to draw
-# Rainbow Benzene
-# using Turtle Programming
 import turtle
 colors = ['red', 'purple', 'blue', 'green', 'orange', 'yellow']
 t = turtle.Pen()
