@@ -3,4 +3,5 @@ print('* *')
 print('* * *')
 print('* * * *')
 print('* * * * *')
-#NKR codes 
+print ('* * * * * *')
+# NKR codes 
